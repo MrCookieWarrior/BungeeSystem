@@ -30,4 +30,4 @@ public class Hub extends Command {
     sender.sendMessage(new ComponentBuilder("... not here...").color(ChatColor.RED).create());
     }
   }
-}
+}//Hallo 
